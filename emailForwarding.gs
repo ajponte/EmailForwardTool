@@ -1,6 +1,5 @@
 // Email Fowarding WebApp 1.5
-// Created by Karlina Beringer. January 18, 2013.
-// Updated by Julie Petersen and Karlina Beringer. January 25, 2013
+// Created by Karlina Beringer & Alan Ponte January 18, 2013.
 // Updated by Alan Ponte June 6, 2013
 // Description: A stand-alone webapp that forwards emails from the user's inbox
 //             to one or multiple recipients. Users have three options:
